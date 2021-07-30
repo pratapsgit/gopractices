@@ -1,0 +1,2 @@
+# gopractices
+GO programming practice
